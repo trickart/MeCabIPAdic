@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import MeCab
+import MeCabObjC
 
 extension Node {
     public enum PartOfSpeech: String, CustomDebugStringConvertible {

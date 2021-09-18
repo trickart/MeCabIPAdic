@@ -1,5 +1,5 @@
 import XCTest
-@testable import MeCab
+@testable import MeCabObjC
 @testable import MeCabIPAdic
 
 final class MeCabIPAdicTests: XCTestCase {
